@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Shard
+  - Rock
+  - Bottle
+  - Hands
+  - Lamp
+  - Lighter
   layers:
   - Default
   - TransparentFX
@@ -40,4 +46,10 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: static
+    uniqueID: 598791225
+    locked: 0
+  - name: moving
+    uniqueID: 2155231551
     locked: 0
